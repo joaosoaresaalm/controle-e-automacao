@@ -13,3 +13,5 @@
   * `git push`
  7. Após seguir todos os passos, ir ao Github GUI. Em `Pull requests` selecionar o botão de *New Pull Request* e criar um PR da sua branch para main
  8. Enviar o PR para o João Soares para que seja feito um review e esperar aprovação.
+
+9.
