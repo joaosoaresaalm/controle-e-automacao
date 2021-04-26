@@ -2,7 +2,7 @@
 
 
 1. Clone o repositório na sua máquina localmente utilizando o seguinte comando:
-  * `git clone <URL>`
+  * `git clone <URL>`a
 2. Antes de criar sua `branch` para submeter sua codificação, atualize seu repositório local com o remoto, por exemplo:
   * `git pull origin main`
 3. Após desenvolver suas atividades crie uma `branch` a partir da main, seguindo o seguinte padrão:
